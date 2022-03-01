@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PostIP.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Address" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://39.98.133.157:50000/?token=123&amp;action=__post__</Value>
+    </Setting>
+    <Setting Name="RAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://{0}:8081</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
