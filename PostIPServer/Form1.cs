@@ -122,6 +122,9 @@ namespace PostIPServer
             }
         }
 
-
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            toolStripButton1.PerformClick();
+        }
     }
 }
